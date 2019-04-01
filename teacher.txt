@@ -1,0 +1,4 @@
+From opening the .txt file it looks like a letter. 
+From first scan it doesn't seem to cipher numbers (because 2017 is when this 
+challenge was made and it's the only number)
+Punctuation stays the same it seems as well.

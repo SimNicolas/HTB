@@ -1,0 +1,35 @@
+07. Kelis - Milkshake
+
+Black Screen
+41 seconds.
+
+First time doing anything stego
+I remember doing something similar to this in an example or lab in the earlier weeks
+Hiding something within an mp3. I think it was just an example from a lecturer though
+
+So the song is based off the popular song milkshake by Kelis
+Rings at :41 and clip is :41 seconds long
+
+looking at kali linux tools I've found a wayto hide data by steganographic techniques.
+Using steghide you can hide a txt in a file (png or mp3 I'm assuming)
+
+I tried changing the file extension to raw, png and can't open the file
+image viewer can't open an mp3
+
+Looking at the forums on hack the box, seems like this has to do with the waves of
+the files (audio analysis, analyze the rainbow in the sky, go in direction of visual)
+
+Also said sonic visualizer was a tool that could help
+
+I found a youtube video named how to hide secret text in sound file wav using
+sonic visualizer and it shows the music waves, but that didn't help that much
+
+I watched another youtube video called Hide Secret Messages In Audio using 
+sonic visualizer.
+
+I went to layer -> add spectrogram
+https://www.youtube.com/watch?v=4LP6nDRbDOA
+
+
+
+
